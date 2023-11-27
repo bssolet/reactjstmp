@@ -4,9 +4,9 @@ function Contact() {
   return (
 
     <div>
-        Contact
+        Contact111npm
         <div className="mt-5 p-4 bg-dark text-white text-center">
-  <p>Footer</p>
+        <p>Footer Section</p>
 </div>
     </div>
   )
