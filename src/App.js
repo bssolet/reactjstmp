@@ -10,7 +10,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-<BrowserRouter>
+<BrowserRouter> 
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
